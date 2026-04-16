@@ -1,0 +1,15 @@
+{
+  "name": "0AI",
+  "short_name": "0AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f2e8",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

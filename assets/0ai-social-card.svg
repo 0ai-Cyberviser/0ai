@@ -1,0 +1,34 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F6F2E8"/>
+  <rect x="48" y="48" width="1504" height="804" rx="52" fill="#FFFDF7" stroke="#111111" stroke-opacity="0.08" stroke-width="2"/>
+  <circle cx="1320" cy="180" r="210" fill="#00A7E1" fill-opacity="0.14"/>
+  <circle cx="210" cy="740" r="170" fill="#D9851C" fill-opacity="0.14"/>
+  <rect x="112" y="112" width="170" height="170" rx="42" fill="#111111"/>
+  <circle cx="166" cy="198" r="34" stroke="#00A7E1" stroke-width="14"/>
+  <path d="M214 254V140H237L274 254H248L241.2 226.4H208.8L202 254H214ZM214.8 202H235.4L225.2 161.8L214.8 202Z" fill="#D9851C"/>
+  <path d="M228 254V140H250V254H228Z" fill="#F6F2E8"/>
+  <text x="112" y="398" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="132" font-weight="700">
+    0AI
+  </text>
+  <text x="112" y="476" fill="#4C4C47" font-family="Courier New, monospace" font-size="30" letter-spacing="5">
+    JOHNNY WATTERS / 0AI-CYBERVISER
+  </text>
+  <text x="112" y="590" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">
+    AI, cybersecurity, automation,
+  </text>
+  <text x="112" y="670" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">
+    and controlled fork operations.
+  </text>
+  <rect x="112" y="736" width="202" height="52" rx="26" fill="#111111"/>
+  <rect x="332" y="736" width="250" height="52" rx="26" fill="#00A7E1"/>
+  <rect x="600" y="736" width="242" height="52" rx="26" fill="#D9851C"/>
+  <text x="155" y="769" fill="#FFFDF7" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    0AI
+  </text>
+  <text x="376" y="769" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    CYBERVISER
+  </text>
+  <text x="636" y="769" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    PORTFOLIO HUB
+  </text>
+</svg>
